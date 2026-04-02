@@ -88,6 +88,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 SUKTHE NITIN
