@@ -30,10 +30,15 @@ A secure message encryption and decryption system built using Python. The applic
 ##  Project Structure
 
 secure_message_app/
+
 │── app.py
+
 │── ui.py
+
 │── crypto_utils.py
+
 │── streamlit_app.py
+
 │── requirements.txt
 
 ---
@@ -42,7 +47,8 @@ secure_message_app/
 
 ### 1. Clone repo
 
-git clone https://github.com/your-username/secure_message_app.git
+git clone https://github.com/nitinsukthe/secure-message-app/tree/main
+
 cd secure_message_app
 
 ### 2. Create virtual environment
