@@ -97,10 +97,10 @@ streamlit run streamlit_app.py
 ![Encrypt](screenshots/encrypt.png)
 
 ###  Save Encrypted Message
-![Save](screenshots/save.png)
+![Save](screenshots/savefile.png)
 
 ###  Load Encrypted Message
-![Load](screenshots/load)
+![Load](screenshots/loadfile.png)
 
 ###  Decrypted Message
 ![Decrypt](screenshots/decrypt.png)
