@@ -88,7 +88,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ###  Web App Interface
 ![UI](screenshots/ui.png)
