@@ -88,6 +88,25 @@ streamlit run streamlit_app.py
 
 ---
 
+## 📸 Screenshots
+
+###  Web App Interface
+![UI](screenshots/ui.png)
+
+###  Encrypted Message
+![Encrypt](screenshots/encrypt.png)
+
+###  Save Encrypted Message
+![Save](screenshots/save.png)
+
+###  Load Encrypted Message
+![Load](screenshots/load)
+
+###  Decrypted Message
+![Decrypt](screenshots/decrypt.png)
+
+---
+
 ##  Author
 
 SUKTHE NITIN
